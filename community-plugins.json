@@ -11457,5 +11457,12 @@
         "author": "o02c",
         "description": "Simple Tab Switcher, search open tabs.",
         "repo": "o02c/obsidian-tab-navigator"
-    }
+    },
+    {
+        "id": "obsidian-tinychart",
+        "name": "TinyChart",
+        "author": "Alin Coop",
+        "description": "Dead simple ASCII charts for Obsidian",
+        "repo": "alincoop/obsidian-tinychart"
+}
 ]
